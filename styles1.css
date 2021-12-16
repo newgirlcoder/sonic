@@ -1,0 +1,73 @@
+body {
+	background: rgb(25, 25, 25) !important
+}
+
+.wrapper {
+  height: 620px;	
+  padding-top: 40px;
+  background-image: url(https://images.unsplash.com/photo-1511671782779-c97d3d27a1d4?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8bXVzaWMlMjBiYWNrZ3JvdW5kfGVufDB8fDB8fA%3D%3D&w=1000&q=80);
+  opacity: 0.75; 
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.form-signin {
+  max-width: 500px;
+  padding: 30px;
+  margin: 0 auto;
+  background-color: rgb(5, 5, 5);
+  border: 5px solid rgba(0,0,0,0.1); 
+  border-radius: 30px;
+  color: white ;
+  
+}  
+
+  .form-signin-heading{
+	  margin-bottom: 30px;
+      margin-left: 80px;	
+    }
+
+    .text{
+        padding: 5px 0px;
+    }
+
+	.checkbox {
+	  font-weight: normal;
+	}
+
+	.form-control {
+	  position: relative;
+	  font-size: 16px;
+	  height: auto;
+	  padding: 10px;
+	  
+		
+	}
+
+	input[type="text"] {
+	  margin-bottom: 20px;
+	}
+
+	input[type="password"] {
+	  margin-bottom: 20px;
+	}
+
+    .btn{
+        margin-top: 20px;
+		background-color: white;
+		color: black;
+    }
+
+	.new{
+		padding-left: 110px;
+		padding-right: 10px;
+
+	}
+
+	.sign-up{
+		color: #eae9f1;
+	}
+
+
+   
